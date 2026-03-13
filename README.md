@@ -1,43 +1,39 @@
-# Astro Starter Kit: Minimal
+# TOXTLEJ1 | Software Engineer & Cloud Architect 🚀
 
-```sh
-npm create astro@latest -- --template minimal
-```
+Welcome to my personal portfolio repository! This site serves as a professional showcase of my technical expertise, selected projects, and ongoing experiments in the world of software engineering and cloud infrastructure.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+Live at: **[https://toxtlej1.github.io/](https://toxtlej1.github.io/)**
 
-## 🚀 Project Structure
+## 🛠️ Technical Focus
 
-Inside of your Astro project, you'll see the following folders and files:
+I specialize in building robust, scalable systems at the intersection of development and operations. My core areas of expertise include:
 
-```text
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+- **Automation & Workflows:** Streamlining developer experiences and business processes.
+- **Cloud Architecture:** Designing and implementing highly available infrastructure on AWS and GCP.
+- **Infrastructure as Code (IaC):** Managing foundations with Terraform and Pulumi.
+- **DevOps & CI/CD:** Building reliable pipelines for continuous delivery.
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+## 🚀 Featured Projects
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+- **[AI-Empowered Infra Path](https://github.com/toxtlej1/infra-ai-learning-path):** An open-source curriculum helping the next generation of engineers master Cloud Infra using AI as a mentor.
+- **[Dictionary of Usernames](https://github.com/toxtlej1/Dictionary_of_Usernames):** A Python-based tool for large-scale username dictionary generation and security testing.
+- **[KittyLitty](https://github.com/Cat-Master-Group/KittyLitty):** A collaborative platform built with Node.js focusing on full-stack integration.
+- **[Generate-Email-Application](https://github.com/toxtlej1/Generate-Email-Application):** A Java-based enterprise tool for organizational email workflow management.
 
-Any static assets, like images, can be placed in the `public/` directory.
+## 💻 Built With
 
-## 🧞 Commands
+- **[Astro 5](https://astro.build/):** High-performance static site generation.
+- **[HeroUI v3](https://heroui.com/):** Modern React component library for a sleek, dark-themed UI.
+- **[Tailwind CSS](https://tailwindcss.com/):** Utility-first styling for precise design control.
+- **[Framer Motion](https://www.framer.com/motion/):** Fluid animations and micro-interactions.
+- **[GitHub Actions](https://github.com/features/actions):** Fully automated build and deployment to GitHub Pages.
 
-All commands are run from the root of the project, from a terminal:
+## 🤝 Contact
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+I'm always open to discussing interesting projects, automation challenges, or cloud architecture.
 
-## 👀 Want to learn more?
+- **Email:** [4a6573757320@protonmail.com](mailto:4a6573757320@protonmail.com)
+- **GitHub:** [@toxtlej1](https://github.com/toxtlej1)
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+---
+*Built with ❤️ by TOXTLEJ1*
