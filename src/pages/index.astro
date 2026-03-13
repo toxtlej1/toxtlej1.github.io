@@ -1,0 +1,24 @@
+---
+import { Portfolio } from '../components/Portfolio';
+import '../styles/global.css';
+---
+
+<!doctype html>
+<html lang="en" className="dark">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<meta name="generator" content={Astro.generator} />
+		<title>TOXTLEJ1 | Software Engineer & Cloud Architect</title>
+	</head>
+	<body>
+		<Portfolio client:load />
+	</body>
+</html>
+
+<style is:global>
+	html {
+		scroll-behavior: smooth;
+	}
+</style>
