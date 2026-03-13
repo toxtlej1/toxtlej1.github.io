@@ -30,7 +30,7 @@ export const Portfolio = () => {
               </Button>
             </NavbarItem>
             <NavbarItem>
-              <Button as={Link} color="primary" variant="flat" href="mailto:4a6573757320@protonmail.com" className="font-semibold">
+              <Button as={Link} color="primary" variant="flat" href="mailto:Jesustoxtle+advisory@gmail.com" className="font-semibold">
                 Hire Me
               </Button>
             </NavbarItem>
@@ -82,7 +82,7 @@ export const Portfolio = () => {
               <Button size="lg" color="primary" radius="full" endContent={<ChevronRight size={18}/>} as={Link} href="#pitches" className="h-14 px-8 text-lg font-bold">
                 Explore Impact
               </Button>
-              <Button size="lg" variant="bordered" radius="full" startContent={<Target size={18}/>} as={Link} href="mailto:4a6573757320@protonmail.com" className="h-14 px-8 text-lg font-bold text-foreground">
+              <Button size="lg" variant="bordered" radius="full" startContent={<Target size={18}/>} as={Link} href="mailto:Jesustoxtle+advisory@gmail.com" className="h-14 px-8 text-lg font-bold text-foreground">
                 Request Advisory Session
               </Button>
             </motion.div>
@@ -138,7 +138,7 @@ export const Portfolio = () => {
                 </CardBody>
                 <Button 
                   as={Link} 
-                  href="mailto:4a6573757320@protonmail.com?subject=Inquiry: 1.5M Infrastructure Deprecation Case Study" 
+                  href="mailto:Jesustoxtle+advisory@gmail.com?subject=Inquiry: 1.5M Infrastructure Deprecation Case Study" 
                   className="bg-white text-blue-700 font-bold w-full h-14 text-lg" 
                   radius="full"
                 >
@@ -166,7 +166,7 @@ export const Portfolio = () => {
                 </CardBody>
                 <Button 
                   as={Link} 
-                  href="mailto:4a6573757320@protonmail.com?subject=Inquiry: Microsecond Compliance Tool Architecture" 
+                  href="mailto:Jesustoxtle+advisory@gmail.com?subject=Inquiry: Microsecond Compliance Tool Architecture" 
                   className="bg-white text-indigo-700 font-bold w-full h-14 text-lg" 
                   radius="full"
                 >
@@ -261,7 +261,7 @@ export const Portfolio = () => {
             <p className="text-xl md:text-2xl opacity-80 max-w-2xl text-balance">
               Currently accepting selective advisory and consulting engagements for companies looking to lead in the AI era.
             </p>
-            <Button size="lg" className="bg-white text-blue-600 font-bold h-16 px-12 text-xl" radius="full" as={Link} href="mailto:4a6573757320@protonmail.com">
+            <Button size="lg" className="bg-white text-blue-600 font-bold h-16 px-12 text-xl" radius="full" as={Link} href="mailto:Jesustoxtle+advisory@gmail.com">
               Let's Talk Strategy
             </Button>
           </section>

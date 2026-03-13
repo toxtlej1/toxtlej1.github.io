@@ -34,7 +34,7 @@ I help companies navigate the transition to an AI-first economy through high-ROI
 
 I am currently accepting selective advisory and consulting engagements.
 
-- **Email:** [4a6573757320@protonmail.com](mailto:4a6573757320@protonmail.com)
+- **Email:** [Jesustoxtle+advisory@gmail.com](mailto:Jesustoxtle+advisory@gmail.com)
 - **GitHub:** [@toxtlej1](https://github.com/toxtlej1)
 
 ---
